@@ -1,0 +1,1 @@
+# yerli_ucus_kontrol_karti
