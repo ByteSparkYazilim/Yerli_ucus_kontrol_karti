@@ -64,10 +64,11 @@ https://github.com/ByteSparkYazilim/yerli_ucus_kontrol_karti/assets/145047961/d6
 * Serial-wire girişi
 * S-BUS girişi
 
-![resim5](https://github.com/ByteSparkYazilim/yerli_ucus_kontrol_karti/assets/145047961/e1c8ac6c-0f81-4ffe-a183-5d1a72ceeb64)
+![resim5](https://github.com/ByteSparkYazilim/yerli_ucus_kontrol_karti/assets/145047961/e1c8ac6c-0f81-4ffe-a183-5d1a72ceeb64){height=200px]
 ![resim8](https://github.com/ByteSparkYazilim/yerli_ucus_kontrol_karti/assets/145047961/75c14ab0-2efe-4200-ad84-65a564868cbc)
 
-![resim9](https://github.com/ByteSparkYazilim/yerli_ucus_kontrol_karti/assets/145047961/8e8bd869-02f7-4acd-bd45-4f7be7b1dbee)
+![resim9](https://github.com/ByteSparkYazilim/yerli_ucus_kontrol_karti/assets/145047961/67dfbe81-259a-488f-bb6e-f916b35dbf1a)
+
 
 
 
